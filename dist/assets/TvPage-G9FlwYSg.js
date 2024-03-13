@@ -1,0 +1,1 @@
+import{_ as e}from"./Content-ogET9TMp.js";import{c as a,a as t,o}from"./index--i-CE7YB.js";const s={class:"main"},p={__name:"TvPage",setup(c){return(_,r)=>(o(),a("main",s,[t(e,{type:"tv"})]))}};export{p as default};
